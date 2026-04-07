@@ -1,0 +1,9 @@
+# Multi-Agent Travel Planner — Python Dependencies
+# Install with:  pip install -r requirements.txt
+#
+# FREE API key: https://console.groq.com/keys
+
+langchain==0.2.16
+langchain-groq==0.1.9
+langchain-core==0.2.39
+langgraph==0.2.28
